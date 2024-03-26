@@ -1,0 +1,12 @@
+/* Add styles for the body to set the background image */
+body {
+    background-image: url('logo.jpeg'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+
